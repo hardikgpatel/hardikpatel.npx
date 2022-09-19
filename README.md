@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://github.com/hardikgpatel/hardikpatel.npx/raw/main/assets/cover.png" />
+<img src="https://github.com/hardikgpatel/hardikpatel.npx/assets/cover.png" />
 
 <br />
 <br />
@@ -14,7 +14,7 @@
 Assuming you have Node.js installed, to run this command, simply do.
 
 ```sh
-npx sonalmaniya
+npx hardikpatel
 ```
 
 # How to create
