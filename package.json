@@ -1,11 +1,11 @@
 {
-    "name": "mustansir",
+    "name": "hardikpatel",
     "version": "1.3.1",
-    "description": "My name \"mustansir\" as an npx command.",
+    "description": "My name \"hardikpatel\" as an npx command.",
     "bin": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/MustansirZia/mustansir.npx"
+        "url": "https://github.com/hardikgpatel/hardikpatel.npx"
     },
     "scripts": {
         "start": "nodemon src/index.ts",
@@ -13,7 +13,7 @@
         "build": "tsc",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Mustansir Zia <mustansir29@hotmail.com>",
+    "author": "Hardik Patel <hardikpatel0884@gmail.com>",
     "license": "MIT",
     "private": false,
     "keywords": [
