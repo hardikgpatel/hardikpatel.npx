@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://github.com/hardikgpatel/hardikpatel.npx/blob/master/assets/cover.png" />
+<img src="https://github.com/hardikgpatel/hardikpatel.npx/assets/cover.png" />
 
 <br />
 <br />
