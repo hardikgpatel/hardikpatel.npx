@@ -1,4 +1,4 @@
-# sonal.npx
+# hardikpatel.npx
 
 > My name "hardikpatel" as an npx command 🚀.
 
