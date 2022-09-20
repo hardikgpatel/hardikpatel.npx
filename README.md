@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://github.com/hardikgpatel/hardikpatel.npx/assets/cover.png" />
+<img src="https://github.com/hardikgpatel/hardikpatel.npx/blob/master/assets/cover.png" />
 
 <br />
 <br />
@@ -18,6 +18,7 @@ npx hardikpatel
 ```
 
 # How to create
+
 follow this repo to create npx bio
 https://github.com/MustansirZia/mustansir.npx
 Credit goes to Mustansir.
