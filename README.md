@@ -3,10 +3,6 @@
 > My name "hardikpatel" as an npx command 🚀.
 
 <br />
-
-<img src="https://github.com/hardikgpatel/hardikpatel.npx/assets/cover.png" />
-
-<br />
 <br />
 
 # Run.
